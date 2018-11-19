@@ -16,20 +16,19 @@ h2 {
 main section {
   margin-bottom: 20px;
 }
+.row {
+  margin-top: 10px;
+}
 
 .char {
   text-align: center;
-  padding-top: 30px;
-  height: 444px;
   border: solid gainsboro 1px;
-  padding-bottom: 200px;
+  /* padding-bottom: 200px; */
 }
 
-/* .char p {
-  margin-top: 300px;
-  position: inline-block;
-  margin-left: 25px;
-} */
+.char p {
+  padding: 20px;
+}
 
 img {
   height: auto;

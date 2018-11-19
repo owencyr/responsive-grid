@@ -1,0 +1,45 @@
+main {
+  padding-top: 150px;
+}
+
+header {
+  position: fixed;
+  background-color: #edbc4f;
+  width: 100%;
+  border: solid black 1px;
+}
+
+h2 {
+  font-size: 10px;
+}
+
+main section {
+  margin-bottom: 20px;
+}
+
+.char {
+  text-align: center;
+  padding-top: 30px;
+  height: 444px;
+  border: solid gainsboro 1px;
+  padding-bottom: 200px;
+}
+
+/* .char p {
+  margin-top: 300px;
+  position: inline-block;
+  margin-left: 25px;
+} */
+
+img {
+  height: auto;
+  width: 100%;
+}
+/* 
+.orange {
+  background-color: orange;
+}
+
+.blue {
+  background-color: blue;
+} */

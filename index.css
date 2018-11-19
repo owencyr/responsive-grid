@@ -19,10 +19,13 @@ main section {
 .row {
   margin-top: 10px;
 }
-
-.char {
-  text-align: center;
+.box {
   border: solid gainsboro 1px;
+  text-align: center;
+}
+.char {
+  
+  
   /* padding-bottom: 200px; */
 }
 
